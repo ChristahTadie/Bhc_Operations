@@ -1,0 +1,15 @@
+C:\Users\ctnya\OneDrive\Desktop\My Projects\BHC\bin\Debug\net6.0\BHC.exe
+C:\Users\ctnya\OneDrive\Desktop\My Projects\BHC\bin\Debug\net6.0\BHC.deps.json
+C:\Users\ctnya\OneDrive\Desktop\My Projects\BHC\bin\Debug\net6.0\BHC.runtimeconfig.json
+C:\Users\ctnya\OneDrive\Desktop\My Projects\BHC\bin\Debug\net6.0\BHC.dll
+C:\Users\ctnya\OneDrive\Desktop\My Projects\BHC\bin\Debug\net6.0\BHC.pdb
+C:\Users\ctnya\OneDrive\Desktop\My Projects\BHC\obj\Debug\net6.0\BHC.csproj.AssemblyReference.cache
+C:\Users\ctnya\OneDrive\Desktop\My Projects\BHC\obj\Debug\net6.0\BHC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ctnya\OneDrive\Desktop\My Projects\BHC\obj\Debug\net6.0\BHC.AssemblyInfoInputs.cache
+C:\Users\ctnya\OneDrive\Desktop\My Projects\BHC\obj\Debug\net6.0\BHC.AssemblyInfo.cs
+C:\Users\ctnya\OneDrive\Desktop\My Projects\BHC\obj\Debug\net6.0\BHC.csproj.CoreCompileInputs.cache
+C:\Users\ctnya\OneDrive\Desktop\My Projects\BHC\obj\Debug\net6.0\BHC.dll
+C:\Users\ctnya\OneDrive\Desktop\My Projects\BHC\obj\Debug\net6.0\refint\BHC.dll
+C:\Users\ctnya\OneDrive\Desktop\My Projects\BHC\obj\Debug\net6.0\BHC.pdb
+C:\Users\ctnya\OneDrive\Desktop\My Projects\BHC\obj\Debug\net6.0\BHC.genruntimeconfig.cache
+C:\Users\ctnya\OneDrive\Desktop\My Projects\BHC\obj\Debug\net6.0\ref\BHC.dll
